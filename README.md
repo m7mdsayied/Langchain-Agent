@@ -2,7 +2,7 @@
 Setting local environment LangChain-agent
 
 # Dataset: 
-# NileULex
+NileULex
 Nile University's Arabic sentiment Lexicon 
 NilULex v0.27: dataset contains Egyptian Arabic and Modern Standard Arabic sentiment words and their polarity.
 
